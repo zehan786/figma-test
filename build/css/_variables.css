@@ -1,0 +1,51 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --primitive-tokens-light-color-green-100: #a9fce2;
+  --primitive-tokens-light-color-green-200: #7efbd4;
+  --primitive-tokens-light-color-green-300: #53f9c6;
+  --primitive-tokens-light-color-green-400: #28f8b7;
+  --primitive-tokens-light-color-green-500: #08eca5;
+  --primitive-tokens-light-color-green-600: #06c187;
+  --primitive-tokens-light-color-green-700: #059669;
+  --primitive-tokens-light-color-green-800: #047753;
+  --primitive-tokens-light-color-green-900: #03573d;
+  --primitive-tokens-light-color-green-950: #023827;
+  --primitive-tokens-light-color-grey-25: #fcfcfc;
+  --primitive-tokens-light-color-grey-50: #f9fafc;
+  --primitive-tokens-light-color-grey-100: #f1f3f7;
+  --primitive-tokens-light-color-grey-200: #e9ebf0;
+  --primitive-tokens-light-color-grey-300: #d1d5de;
+  --primitive-tokens-light-color-grey-400: #9fa5b2;
+  --primitive-tokens-light-color-grey-500: #686e7d;
+  --primitive-tokens-light-color-grey-600: #4e5663;
+  --primitive-tokens-light-color-grey-700: #3a424d;
+  --primitive-tokens-light-color-grey-800: #1f242e;
+  --primitive-tokens-light-color-grey-900: #131826;
+  --primitive-tokens-light-color-blue-100: #f1f3ff;
+  --primitive-tokens-light-color-blue-200: #eff2fe;
+  --primitive-tokens-light-color-blue-300: #dfe4fd;
+  --primitive-tokens-light-color-blue-400: #8799f6;
+  --primitive-tokens-light-color-blue-500: #5e76f3;
+  --primitive-tokens-light-color-blue-600: #3654f0;
+  --primitive-tokens-light-color-blue-700: #2b43c0;
+  --primitive-tokens-light-color-blue-800: #20328f;
+  --primitive-tokens-light-color-blue-900: #1a2873;
+  --primitive-tokens-light-color-blue-950: #131e57;
+  --primitive-tokens-light-color-red-50: #fceeee;
+  --primitive-tokens-light-color-red-100: #fadddd;
+  --primitive-tokens-light-color-red-200: #f2b1b1;
+  --primitive-tokens-light-color-red-300: #ea7e7e;
+  --primitive-tokens-light-color-red-400: #e35151;
+  --primitive-tokens-light-color-red-500: #dc2626;
+  --primitive-tokens-light-color-red-600: #b01e1e;
+  --primitive-tokens-light-color-red-700: #831717;
+  --primitive-tokens-light-color-red-800: #691212;
+  --primitive-tokens-light-color-red-900: #4f0e0e;
+  --primitive-tokens-light-color-white: #ffffff;
+  --primitive-tokens-light-color-black: #000000;
+  --primitive-tokens-light-color-black-5: rgba(0, 0, 0, 0.05);
+  --primitive-tokens-light-color-black-7: rgba(0, 0, 0, 0.07);
+}

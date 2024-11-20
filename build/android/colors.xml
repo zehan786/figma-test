@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="primitive_tokens_light_color_green_100">#ffa9fce2</color>
+  <color name="primitive_tokens_light_color_green_200">#ff7efbd4</color>
+  <color name="primitive_tokens_light_color_green_300">#ff53f9c6</color>
+  <color name="primitive_tokens_light_color_green_400">#ff28f8b7</color>
+  <color name="primitive_tokens_light_color_green_500">#ff08eca5</color>
+  <color name="primitive_tokens_light_color_green_600">#ff06c187</color>
+  <color name="primitive_tokens_light_color_green_700">#ff059669</color>
+  <color name="primitive_tokens_light_color_green_800">#ff047753</color>
+  <color name="primitive_tokens_light_color_green_900">#ff03573d</color>
+  <color name="primitive_tokens_light_color_green_950">#ff023827</color>
+  <color name="primitive_tokens_light_color_grey_25">#fffcfcfc</color>
+  <color name="primitive_tokens_light_color_grey_50">#fff9fafc</color>
+  <color name="primitive_tokens_light_color_grey_100">#fff1f3f7</color>
+  <color name="primitive_tokens_light_color_grey_200">#ffe9ebf0</color>
+  <color name="primitive_tokens_light_color_grey_300">#ffd1d5de</color>
+  <color name="primitive_tokens_light_color_grey_400">#ff9fa5b2</color>
+  <color name="primitive_tokens_light_color_grey_500">#ff686e7d</color>
+  <color name="primitive_tokens_light_color_grey_600">#ff4e5663</color>
+  <color name="primitive_tokens_light_color_grey_700">#ff3a424d</color>
+  <color name="primitive_tokens_light_color_grey_800">#ff1f242e</color>
+  <color name="primitive_tokens_light_color_grey_900">#ff131826</color>
+  <color name="primitive_tokens_light_color_blue_100">#fff1f3ff</color>
+  <color name="primitive_tokens_light_color_blue_200">#ffeff2fe</color>
+  <color name="primitive_tokens_light_color_blue_300">#ffdfe4fd</color>
+  <color name="primitive_tokens_light_color_blue_400">#ff8799f6</color>
+  <color name="primitive_tokens_light_color_blue_500">#ff5e76f3</color>
+  <color name="primitive_tokens_light_color_blue_600">#ff3654f0</color>
+  <color name="primitive_tokens_light_color_blue_700">#ff2b43c0</color>
+  <color name="primitive_tokens_light_color_blue_800">#ff20328f</color>
+  <color name="primitive_tokens_light_color_blue_900">#ff1a2873</color>
+  <color name="primitive_tokens_light_color_blue_950">#ff131e57</color>
+  <color name="primitive_tokens_light_color_red_50">#fffceeee</color>
+  <color name="primitive_tokens_light_color_red_100">#fffadddd</color>
+  <color name="primitive_tokens_light_color_red_200">#fff2b1b1</color>
+  <color name="primitive_tokens_light_color_red_300">#ffea7e7e</color>
+  <color name="primitive_tokens_light_color_red_400">#ffe35151</color>
+  <color name="primitive_tokens_light_color_red_500">#ffdc2626</color>
+  <color name="primitive_tokens_light_color_red_600">#ffb01e1e</color>
+  <color name="primitive_tokens_light_color_red_700">#ff831717</color>
+  <color name="primitive_tokens_light_color_red_800">#ff691212</color>
+  <color name="primitive_tokens_light_color_red_900">#ff4f0e0e</color>
+  <color name="primitive_tokens_light_color_white">#ffffffff</color>
+  <color name="primitive_tokens_light_color_black">#ff000000</color>
+  <color name="primitive_tokens_light_color_black_5">#0d000000</color>
+  <color name="primitive_tokens_light_color_black_7">#12000000</color>
+</resources>
